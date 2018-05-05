@@ -14,6 +14,8 @@ Experiment Result:
 
 First row images are the original images, the second row images are the residual images, the third images are the result of the original image plus the residual image pixel element-wise. 
 
+The experiment is about adding glasses on the face and removing glasses on the face.
+
 
 
 
