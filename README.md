@@ -4,8 +4,16 @@ This code is implemented by TensorFlow, and the method of the code is from the p
 
 This paper is very interesting, it use GAN, dual learning and residual image to yield a high quilty image. Especially the method of residual image, i think it's a very nice idea.
 
+Method of paper:
+
+![paper](https://github.com/MingtaoGuo/Learning-Residual-Images-for-Face-Attribute-Manipulation/raw/master/result/method.jpg)
+
 Experiment Result:
 
-![image](https://github.com/MingtaoGuo/Learning-Residual-Images-for-Face-Attribute-Manipulation/raw/master/result/ExpResult.jpg)
+![result](https://github.com/MingtaoGuo/Learning-Residual-Images-for-Face-Attribute-Manipulation/raw/master/result/ExpResult.jpg)
+
+First row images are the original images, the second row images are the residual images, the third images are the result of the original image plus the residual image pixel element-wise. 
+
+
 
 
