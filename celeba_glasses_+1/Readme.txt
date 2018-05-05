@@ -1,1 +1,1 @@
-Please download the dataset which i have selected the attribute of glasses in CelebA from BaiDu Drive 
+Please unzip the file 'celeba_glasses_+1' then put all images in this folder
