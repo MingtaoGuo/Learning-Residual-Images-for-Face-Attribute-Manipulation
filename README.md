@@ -7,6 +7,3 @@ This paper is very interesting, it use GAN, dual learning and residual image to 
 Experiment Result:
 
 
-![aaa](https://github.com/MingtaoGuo/Learning-Residual-Images-for-Face-Attribute-Manipulation/raw/master/result/ExpResult.jpg)
-
-
