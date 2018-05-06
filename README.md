@@ -4,6 +4,11 @@ This code is implemented by TensorFlow, and the method of the code is from the p
 
 This paper is very interesting, it use GAN, dual learning and residual image to yield a high quilty image. Especially the method of residual image, i think it's a very nice idea.
 
+How to use the code:
+--------------------
+
+you need these packages of python: tensorflow, numpy, scipy, pillow, you just use these commands to install these packages, like this command: pip install tensorflow, all packages you don't have, you can use this command to install.
+
 Method of the paper:
 ----------------------
 
